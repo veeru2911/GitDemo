@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitDemoAppApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Welcome");
+		System.out.println("This is my first commit");
 		SpringApplication.run(GitDemoAppApplication.class, args);
 		
 	}
